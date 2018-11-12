@@ -1,2 +1,2 @@
 # tutorial-django
-django tutorial repo
+This is Django tutorial repository.
